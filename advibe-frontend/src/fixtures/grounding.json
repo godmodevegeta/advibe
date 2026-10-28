@@ -1,0 +1,2692 @@
+{
+  "geo_pins": {
+    "heatmap_pins": [
+      {
+        "latitude": 40.715332,
+        "longitude": -73.98193,
+        "geohash": "dr5rs",
+        "affinity": 1.0,
+        "affinity_rank": 0.9253,
+        "popularity": 0.9975,
+        "neighborhood_label": "Lower East Side",
+        "nearest_venue": "sweetgreen - Healthy Salads, Wraps, and Bowls",
+        "nearest_venue_distance_km": 1.44,
+        "label_source": "nominatim"
+      },
+      {
+        "latitude": 40.715332,
+        "longitude": -74.02588,
+        "geohash": "dr5re",
+        "affinity": 0.9988,
+        "affinity_rank": 0.9211,
+        "popularity": 0.9988,
+        "neighborhood_label": "Colgate Center",
+        "nearest_venue": "Laughing Man Coffee",
+        "nearest_venue_distance_km": 1.34,
+        "label_source": "nominatim"
+      },
+      {
+        "latitude": 40.759277,
+        "longitude": -73.98193,
+        "geohash": "dr5ru",
+        "affinity": 0.9975,
+        "affinity_rank": 0.92,
+        "popularity": 1.0,
+        "neighborhood_label": "Theater District",
+        "nearest_venue": "Juice Generation",
+        "nearest_venue_distance_km": 0.93,
+        "label_source": "nominatim"
+      }
+    ],
+    "places": [
+      {
+        "name": "Juice Generation",
+        "entity_id": "FC4CE9DC-BC18-418F-9C1D-3D5CA10650B1",
+        "domain": "place",
+        "subtype": "urn:entity:place",
+        "affinity": 0.8531,
+        "popularity": 0.767,
+        "popularity_known": true,
+        "arbitrage_score": 1.11,
+        "high_arbitrage": true,
+        "signal_contribution": {
+          "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+          "name": "MatchaBar",
+          "score": 0.6205,
+          "source": "signal.interests.entities"
+        },
+        "descriptors": [
+          "210 Bedford Ave Brooklyn, NY 11249"
+        ],
+        "address": "210 Bedford Ave Brooklyn, NY 11249",
+        "latitude": 40.717014,
+        "longitude": -73.958822,
+        "has_coordinates": true,
+        "geocode": {
+          "city": "New York",
+          "name": "Williamsburg",
+          "metro": "New York City",
+          "country": "United States",
+          "country_code": "US",
+          "admin1_region": "New York",
+          "admin2_region": "Kings County"
+        }
+      },
+      {
+        "name": "Juice Generation",
+        "entity_id": "E7437F9C-C008-431B-B97A-66E07A9119BA",
+        "domain": "place",
+        "subtype": "urn:entity:place",
+        "affinity": 0.8529,
+        "popularity": 0.7406,
+        "popularity_known": true,
+        "arbitrage_score": 1.15,
+        "high_arbitrage": true,
+        "signal_contribution": {
+          "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+          "name": "MatchaBar",
+          "score": 0.581,
+          "source": "signal.interests.entities"
+        },
+        "descriptors": [
+          "28 E 18th St New York, NY 10003",
+          "acai bowl",
+          "smoothies",
+          "peanut butter smoothie"
+        ],
+        "address": "28 E 18th St New York, NY 10003",
+        "latitude": 40.737576,
+        "longitude": -73.989919,
+        "has_coordinates": true,
+        "geocode": {
+          "city": "New York",
+          "name": "Union Square",
+          "metro": "New York City",
+          "country": "United States",
+          "country_code": "US",
+          "admin1_region": "New York",
+          "admin2_region": "New York County"
+        }
+      },
+      {
+        "name": "sweetgreen - Healthy Salads, Wraps, and Bowls",
+        "entity_id": "FFE9D29B-39ED-4852-882F-60E0F65A436B",
+        "domain": "place",
+        "subtype": "urn:entity:place",
+        "affinity": 0.849,
+        "popularity": 0.8881,
+        "popularity_known": true,
+        "arbitrage_score": 0.96,
+        "high_arbitrage": false,
+        "signal_contribution": {
+          "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+          "name": "MatchaBar",
+          "score": 0.6122,
+          "source": "signal.interests.entities"
+        },
+        "descriptors": [
+          "100 Kenmare St New York, NY 10012",
+          "salad bowls",
+          "outdoor seating",
+          "healthy salads"
+        ],
+        "address": "100 Kenmare St New York, NY 10012",
+        "latitude": 40.721184,
+        "longitude": -73.99711,
+        "has_coordinates": true,
+        "geocode": {
+          "city": "New York",
+          "name": "Little Italy",
+          "metro": "New York City",
+          "country": "United States",
+          "country_code": "US",
+          "admin1_region": "New York",
+          "admin2_region": "New York County"
+        }
+      },
+      {
+        "name": "Van Leeuwen Ice Cream",
+        "entity_id": "8A84540C-0E4F-4076-8510-867432CF940A",
+        "domain": "place",
+        "subtype": "urn:entity:place",
+        "affinity": 0.8488,
+        "popularity": 0.9796,
+        "popularity_known": true,
+        "arbitrage_score": 0.87,
+        "high_arbitrage": false,
+        "signal_contribution": {
+          "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+          "name": "MatchaBar",
+          "score": 0.6046,
+          "source": "signal.interests.entities"
+        },
+        "descriptors": [
+          "152 W 10th St New York, NY 10014",
+          "vegan ice cream",
+          "earl grey",
+          "scoop"
+        ],
+        "address": "152 W 10th St New York, NY 10014",
+        "latitude": 40.734397,
+        "longitude": -74.001271,
+        "has_coordinates": true,
+        "geocode": {
+          "city": "New York",
+          "name": "West Village",
+          "metro": "New York City",
+          "country": "United States",
+          "country_code": "US",
+          "admin1_region": "New York",
+          "admin2_region": "New York County"
+        }
+      },
+      {
+        "name": "Gotan",
+        "entity_id": "E9F6EF10-7EE5-4902-9F82-B59450BEEA48",
+        "domain": "place",
+        "subtype": "urn:entity:place",
+        "affinity": 0.8484,
+        "popularity": 0.9549,
+        "popularity_known": true,
+        "arbitrage_score": 0.89,
+        "high_arbitrage": false,
+        "signal_contribution": {
+          "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+          "name": "MatchaBar",
+          "score": 0.5898,
+          "source": "signal.interests.entities"
+        },
+        "descriptors": [
+          "130 Franklin St New York, NY 10013",
+          "avocado toast",
+          "no wifi",
+          "outdoor seating"
+        ],
+        "address": "130 Franklin St New York, NY 10013",
+        "latitude": 40.719255,
+        "longitude": -74.006608,
+        "has_coordinates": true,
+        "geocode": {
+          "city": "New York",
+          "name": "Tribeca",
+          "metro": "New York City",
+          "country": "United States",
+          "country_code": "US",
+          "admin1_region": "New York",
+          "admin2_region": "New York County"
+        }
+      },
+      {
+        "name": "Ground Support Cafe",
+        "entity_id": "F750A817-C762-44DB-BE2D-32CBB7CD1EA7",
+        "domain": "place",
+        "subtype": "urn:entity:place",
+        "affinity": 0.8474,
+        "popularity": 0.9675,
+        "popularity_known": true,
+        "arbitrage_score": 0.88,
+        "high_arbitrage": false,
+        "signal_contribution": {
+          "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+          "name": "MatchaBar",
+          "score": 0.6176,
+          "source": "signal.interests.entities"
+        },
+        "descriptors": [
+          "399 W Broadway New York, NY 10012",
+          "sandwiches",
+          "outdoor seating",
+          "matcha latte"
+        ],
+        "address": "399 W Broadway New York, NY 10012",
+        "latitude": 40.72429,
+        "longitude": -74.001961,
+        "has_coordinates": true,
+        "geocode": {
+          "city": "New York",
+          "name": "SoHo",
+          "metro": "New York City",
+          "country": "United States",
+          "country_code": "US",
+          "admin1_region": "New York",
+          "admin2_region": "New York County"
+        }
+      },
+      {
+        "name": "Laughing Man Coffee",
+        "entity_id": "42839B94-FC54-42E7-913E-020DD7DDD9D6",
+        "domain": "place",
+        "subtype": "urn:entity:place",
+        "affinity": 0.8473,
+        "popularity": 0.9642,
+        "popularity_known": true,
+        "arbitrage_score": 0.88,
+        "high_arbitrage": false,
+        "signal_contribution": {
+          "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+          "name": "MatchaBar",
+          "score": 0.5835,
+          "source": "signal.interests.entities"
+        },
+        "descriptors": [
+          "184 Duane St New York, NY 10013",
+          "outdoor seating",
+          "matcha",
+          "no wifi"
+        ],
+        "address": "184 Duane St New York, NY 10013",
+        "latitude": 40.717264,
+        "longitude": -74.010131,
+        "has_coordinates": true,
+        "geocode": {
+          "city": "New York",
+          "name": "Tribeca",
+          "metro": "New York City",
+          "country": "United States",
+          "country_code": "US",
+          "admin1_region": "New York",
+          "admin2_region": "New York County"
+        }
+      },
+      {
+        "name": "JOE & THE JUICE",
+        "entity_id": "FD01E1B1-33A7-43DC-9653-C569E937D0C1",
+        "domain": "place",
+        "subtype": "urn:entity:place",
+        "affinity": 0.847,
+        "popularity": 0.9042,
+        "popularity_known": true,
+        "arbitrage_score": 0.94,
+        "high_arbitrage": false,
+        "signal_contribution": {
+          "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+          "name": "MatchaBar",
+          "score": 0.5774,
+          "source": "signal.interests.entities"
+        },
+        "descriptors": [
+          "67 Spring St New York, NY 10012",
+          "music",
+          "sandwiches",
+          "atmosphere"
+        ],
+        "address": "67 Spring St New York, NY 10012",
+        "latitude": 40.722627,
+        "longitude": -73.997391,
+        "has_coordinates": true,
+        "geocode": {
+          "city": "New York",
+          "name": "SoHo",
+          "metro": "New York City",
+          "country": "United States",
+          "country_code": "US",
+          "admin1_region": "New York",
+          "admin2_region": "New York County"
+        }
+      },
+      {
+        "name": "Telegraphe Cafe.",
+        "entity_id": "A5B0401C-2CF7-4F87-A494-7EF85C76AC4F",
+        "domain": "place",
+        "subtype": "urn:entity:place",
+        "affinity": 0.8469,
+        "popularity": 0.6382,
+        "popularity_known": true,
+        "arbitrage_score": 1.33,
+        "high_arbitrage": true,
+        "signal_contribution": {
+          "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+          "name": "MatchaBar",
+          "score": 0.606,
+          "source": "signal.interests.entities"
+        },
+        "descriptors": [
+          "107 W 18th St New York, NY 10011",
+          "bagels",
+          "egg sandwiches",
+          "outdoor seating"
+        ],
+        "address": "107 W 18th St New York, NY 10011",
+        "latitude": 40.74017,
+        "longitude": -73.995518,
+        "has_coordinates": true,
+        "geocode": {
+          "city": "New York",
+          "name": "Chelsea",
+          "metro": "New York City",
+          "country": "United States",
+          "country_code": "US",
+          "admin1_region": "New York",
+          "admin2_region": "New York County"
+        }
+      }
+    ]
+  },
+  "audience_insights": {
+    "demographics": {
+      "primary": "aggregate",
+      "aggregate_age": {
+        "24_and_younger": 0.47,
+        "25_to_29": 0.47,
+        "30_to_34": -0.86,
+        "35_to_44": 0.27,
+        "45_to_54": -0.58,
+        "55_and_older": -0.57
+      },
+      "aggregate_gender": {
+        "male": -0.65,
+        "female": 0.65
+      },
+      "first_seed_block": {
+        "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+        "name": "RUNA",
+        "subtype": "urn:entity:brand",
+        "age": {
+          "24_and_younger": 0.47,
+          "25_to_29": 0.47,
+          "30_to_34": -0.86,
+          "35_to_44": 0.27,
+          "45_to_54": -0.58,
+          "55_and_older": -0.57
+        },
+        "gender": {
+          "male": -0.65,
+          "female": 0.65
+        }
+      },
+      "artist_seed_blocks": [],
+      "artist_seed_age": {},
+      "artist_seed_gender": {},
+      "all_seed_blocks": [
+        {
+          "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+          "name": "RUNA",
+          "subtype": "urn:entity:brand",
+          "age": {
+            "24_and_younger": 0.47,
+            "25_to_29": 0.47,
+            "30_to_34": -0.86,
+            "35_to_44": 0.27,
+            "45_to_54": -0.58,
+            "55_and_older": -0.57
+          },
+          "gender": {
+            "male": -0.65,
+            "female": 0.65
+          }
+        }
+      ],
+      "top_positive_cohorts": [
+        {
+          "cohort": "24_and_younger",
+          "label": "24 and younger",
+          "lift": 0.47
+        },
+        {
+          "cohort": "25_to_29",
+          "label": "25-29",
+          "lift": 0.47
+        },
+        {
+          "cohort": "35_to_44",
+          "label": "35-44",
+          "lift": 0.27
+        }
+      ],
+      "excluded_cohorts": [
+        {
+          "cohort": "30_to_34",
+          "label": "30-34",
+          "lift": -0.86
+        },
+        {
+          "cohort": "45_to_54",
+          "label": "45-54",
+          "lift": -0.58
+        },
+        {
+          "cohort": "55_and_older",
+          "label": "55 and older",
+          "lift": -0.57
+        }
+      ],
+      "recommended_age_ranges": {
+        "core_high_affinity": [
+          18,
+          27
+        ],
+        "underground_arbitrage": [
+          22,
+          34
+        ],
+        "competitor_conquest": [
+          28,
+          44
+        ]
+      },
+      "recommended_genders": {
+        "core_high_affinity": [
+          2
+        ],
+        "underground_arbitrage": [
+          1,
+          2
+        ],
+        "competitor_conquest": [
+          1,
+          2
+        ]
+      }
+    },
+    "taste_vocabulary": [
+      {
+        "tag_id": "urn:tag:theme:qloo:overcoming_challenges",
+        "name": "Overcoming Challenges",
+        "subtype": "urn:tag:theme:qloo",
+        "source": "discovered",
+        "affinity": 0.997,
+        "popularity": 0.9974
+      },
+      {
+        "tag_id": "urn:tag:audience:qloo:superhero_loving",
+        "name": "Superhero-Loving",
+        "subtype": "urn:tag:audience:qloo",
+        "source": "discovered",
+        "affinity": 0.9966,
+        "popularity": 0.9374
+      },
+      {
+        "tag_id": "urn:tag:lifestyle:qloo:supportive",
+        "name": "Supportive",
+        "subtype": "urn:tag:lifestyle:qloo",
+        "source": "discovered",
+        "affinity": 0.9948,
+        "popularity": 0.8736
+      },
+      {
+        "tag_id": "urn:tag:lifestyle:qloo:body_confidence",
+        "name": "Body Confidence",
+        "subtype": "urn:tag:lifestyle:qloo",
+        "source": "discovered",
+        "affinity": 0.9943,
+        "popularity": 0.9911
+      },
+      {
+        "tag_id": "urn:tag:music:qloo:anthemic",
+        "name": "Anthemic",
+        "subtype": "urn:tag:music:qloo",
+        "source": "discovered",
+        "affinity": 0.9928,
+        "popularity": 0.9983
+      },
+      {
+        "tag_id": "urn:tag:lifestyle:qloo:maternity",
+        "name": "Maternity",
+        "subtype": "urn:tag:lifestyle:qloo",
+        "source": "discovered",
+        "affinity": 0.9928,
+        "popularity": 0.8143
+      },
+      {
+        "tag_id": "urn:tag:lifestyle:qloo:summer",
+        "name": "Summer",
+        "subtype": "urn:tag:lifestyle:qloo",
+        "source": "discovered",
+        "affinity": 0.9923,
+        "popularity": 0.8907
+      },
+      {
+        "tag_id": "urn:tag:theme:qloo:football_analysis",
+        "name": "Football Analysis",
+        "subtype": "urn:tag:theme:qloo",
+        "source": "discovered",
+        "affinity": 0.9922,
+        "popularity": 0.9784
+      },
+      {
+        "tag_id": "urn:tag:lifestyle:qloo:balanced_lifestyle",
+        "name": "Balanced Lifestyle",
+        "subtype": "urn:tag:lifestyle:qloo",
+        "source": "discovered",
+        "affinity": 0.9918,
+        "popularity": 0.9885
+      },
+      {
+        "tag_id": "urn:tag:lifestyle:qloo:nightlife",
+        "name": "Nightlife",
+        "subtype": "urn:tag:lifestyle:qloo",
+        "source": "discovered",
+        "affinity": 0.9915,
+        "popularity": 0.9986
+      },
+      {
+        "tag_id": "urn:tag:hobby:qloo:public_speaking",
+        "name": "Public Speaking",
+        "subtype": "urn:tag:hobby:qloo",
+        "source": "discovered",
+        "affinity": 0.9915,
+        "popularity": 0.9891
+      },
+      {
+        "tag_id": "urn:tag:lifestyle:qloo:relaxed_living",
+        "name": "Relaxed Living",
+        "subtype": "urn:tag:lifestyle:qloo",
+        "source": "discovered",
+        "affinity": 0.9908,
+        "popularity": 0.9927
+      },
+      {
+        "tag_id": "urn:tag:personal_style:qloo:eccentric",
+        "name": "Eccentric",
+        "subtype": "urn:tag:personal_style:qloo",
+        "source": "discovered",
+        "affinity": 0.9904,
+        "popularity": 0.9719
+      },
+      {
+        "tag_id": "urn:tag:music:qloo:edgy",
+        "name": "Edgy",
+        "subtype": "urn:tag:music:qloo",
+        "source": "discovered",
+        "affinity": 0.9903,
+        "popularity": 0.9984
+      },
+      {
+        "tag_id": "urn:tag:audience:qloo:rebellious",
+        "name": "Rebellious",
+        "subtype": "urn:tag:audience:qloo",
+        "source": "discovered",
+        "affinity": 0.9896,
+        "popularity": 0.9995
+      }
+    ],
+    "compare": {
+      "competitor_name": "Red Bull",
+      "a_signal_entities": [
+        "MatchaBar",
+        "RUNA"
+      ],
+      "b_signal_entities": [
+        "Red Bull"
+      ],
+      "shared_tags": [
+        {
+          "tag_id": "urn:tag:genre:brand:food_and_beverage",
+          "name": "Food & Beverage",
+          "subtype": "urn:tag:genre:brand",
+          "source": "compare_shared",
+          "affinity": null,
+          "popularity": 0.9972,
+          "score": 0.7305
+        },
+        {
+          "tag_id": "urn:tag:genre:brand:food_and_beverage:drinks",
+          "name": "Drinks",
+          "subtype": "urn:tag:genre:brand",
+          "source": "compare_shared",
+          "affinity": null,
+          "popularity": 0.9931,
+          "score": 0.7297
+        },
+        {
+          "tag_id": "urn:tag:genre:brand:food_and_beverage:drinks:energy_drink",
+          "name": "Energy Drink",
+          "subtype": "urn:tag:genre:brand",
+          "source": "compare_shared",
+          "affinity": null,
+          "popularity": 0.9092,
+          "score": 0.7128
+        }
+      ],
+      "a_only_tags": [
+        {
+          "tag_id": "urn:tag:offerings:place:alcohol",
+          "name": "Alcohol",
+          "subtype": "urn:tag:offerings:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:dining_options:place:catering",
+          "name": "Catering",
+          "subtype": "urn:tag:dining_options:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:dining_options:place:table_service",
+          "name": "Table service",
+          "subtype": "urn:tag:dining_options:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 0.9997
+        },
+        {
+          "tag_id": "urn:tag:dining_options:place:dessert",
+          "name": "Dessert",
+          "subtype": "urn:tag:dining_options:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:offerings:place:coffee",
+          "name": "Coffee",
+          "subtype": "urn:tag:offerings:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:offerings:place:comfort_food",
+          "name": "Comfort food",
+          "subtype": "urn:tag:offerings:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:category:place:cafe",
+          "name": "Cafe",
+          "subtype": "urn:tag:category:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:offerings:place:small_plates",
+          "name": "Small plates",
+          "subtype": "urn:tag:offerings:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:offerings:place:happy_hour_food",
+          "name": "Happy hour food",
+          "subtype": "urn:tag:offerings:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 0.9999
+        },
+        {
+          "tag_id": "urn:tag:offerings:place:late_night_food",
+          "name": "Late-night food",
+          "subtype": "urn:tag:offerings:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        }
+      ],
+      "b_only_tags": []
+    },
+    "trending": {
+      "status": "unsupported",
+      "entity": "MatchaBar",
+      "window": {
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-28"
+      }
+    }
+  },
+  "packets": [
+    {
+      "packet_id": "core_high_affinity",
+      "label": "The Core Insider Lock",
+      "strategy_id": "tribe_1",
+      "product_context": {
+        "brand_name": "chaen",
+        "product_description": "matcha energy drink",
+        "location_query": "New York, NY",
+        "seed_entities": [
+          "MatchaBar",
+          "RUNA"
+        ],
+        "competitor_entities": [
+          "Red Bull"
+        ]
+      },
+      "geo_pin": {
+        "latitude": 40.715332,
+        "longitude": -73.98193,
+        "geohash": "dr5rs",
+        "affinity": 1.0,
+        "affinity_rank": 0.9253,
+        "popularity": 0.9975,
+        "neighborhood_label": "Lower East Side",
+        "nearest_venue": "sweetgreen - Healthy Salads, Wraps, and Bowls",
+        "nearest_venue_distance_km": 1.44,
+        "label_source": "nominatim"
+      },
+      "venues": [
+        {
+          "name": "sweetgreen - Healthy Salads, Wraps, and Bowls",
+          "entity_id": "FFE9D29B-39ED-4852-882F-60E0F65A436B",
+          "domain": "place",
+          "subtype": "urn:entity:place",
+          "affinity": 0.849,
+          "popularity": 0.8881,
+          "popularity_known": true,
+          "arbitrage_score": 0.96,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+            "name": "MatchaBar",
+            "score": 0.6122,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "100 Kenmare St New York, NY 10012",
+            "salad bowls",
+            "outdoor seating",
+            "healthy salads"
+          ],
+          "address": "100 Kenmare St New York, NY 10012",
+          "latitude": 40.721184,
+          "longitude": -73.99711,
+          "has_coordinates": true,
+          "geocode": {
+            "city": "New York",
+            "name": "Little Italy",
+            "metro": "New York City",
+            "country": "United States",
+            "country_code": "US",
+            "admin1_region": "New York",
+            "admin2_region": "New York County"
+          },
+          "distance_km": 1.44,
+          "assigned_pin_index": 0
+        },
+        {
+          "name": "JOE & THE JUICE",
+          "entity_id": "FD01E1B1-33A7-43DC-9653-C569E937D0C1",
+          "domain": "place",
+          "subtype": "urn:entity:place",
+          "affinity": 0.847,
+          "popularity": 0.9042,
+          "popularity_known": true,
+          "arbitrage_score": 0.94,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+            "name": "MatchaBar",
+            "score": 0.5774,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "67 Spring St New York, NY 10012",
+            "music",
+            "sandwiches",
+            "atmosphere"
+          ],
+          "address": "67 Spring St New York, NY 10012",
+          "latitude": 40.722627,
+          "longitude": -73.997391,
+          "has_coordinates": true,
+          "geocode": {
+            "city": "New York",
+            "name": "SoHo",
+            "metro": "New York City",
+            "country": "United States",
+            "country_code": "US",
+            "admin1_region": "New York",
+            "admin2_region": "New York County"
+          },
+          "distance_km": 1.53,
+          "assigned_pin_index": 0
+        },
+        {
+          "name": "Miansai SoHo",
+          "entity_id": "C3DABBA5-B93D-4209-8EB0-1754BFB6A9AF",
+          "domain": "place",
+          "subtype": "urn:entity:place",
+          "affinity": 0.845,
+          "popularity": 0.4574,
+          "popularity_known": true,
+          "arbitrage_score": 1.85,
+          "high_arbitrage": true,
+          "signal_contribution": {
+            "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+            "name": "MatchaBar",
+            "score": 0.6067,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "33 Crosby St New York, NY 10013",
+            "bracelet",
+            "tea",
+            "sales"
+          ],
+          "address": "33 Crosby St New York, NY 10013",
+          "latitude": 40.720875,
+          "longitude": -73.999372,
+          "has_coordinates": true,
+          "geocode": {
+            "city": "New York",
+            "name": "SoHo",
+            "metro": "New York City",
+            "country": "United States",
+            "country_code": "US",
+            "admin1_region": "New York",
+            "admin2_region": "New York County"
+          },
+          "distance_km": 1.59,
+          "assigned_pin_index": 0
+        }
+      ],
+      "competitor": null,
+      "artists": [
+        {
+          "name": "Red Cafe",
+          "entity_id": "A8958AF2-D792-4B32-9A37-D5248423B2CD",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.8981,
+          "popularity": 0.9452,
+          "popularity_known": true,
+          "arbitrage_score": 0.95,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Hip Hop",
+            "Rap"
+          ]
+        },
+        {
+          "name": "Ryan Leslie",
+          "entity_id": "64EA15EE-FC51-495D-A62E-C65FE57914EE",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.897,
+          "popularity": 0.9805,
+          "popularity_known": true,
+          "arbitrage_score": 0.91,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "R&B",
+            "Hip Hop",
+            "Soul"
+          ]
+        },
+        {
+          "name": "Maino",
+          "entity_id": "7048E31B-E2D6-42A7-A5D7-735D92FF6764",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.8964,
+          "popularity": 0.9712,
+          "popularity_known": true,
+          "arbitrage_score": 0.92,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Hip Hop",
+            "Rap"
+          ]
+        },
+        {
+          "name": "Swizz Beatz",
+          "entity_id": "EC332AE4-9F70-4277-A2C4-FAC08CD5AB79",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.8942,
+          "popularity": 0.9784,
+          "popularity_known": true,
+          "arbitrage_score": 0.91,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Hip Hop",
+            "Rap"
+          ]
+        }
+      ],
+      "movies": [
+        {
+          "name": "Minimalism: A Documentary About the Important Things",
+          "entity_id": "39793EEE-28F2-46ED-80E1-5FBA8082C077",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.8459,
+          "popularity": 0.9146,
+          "popularity_known": true,
+          "arbitrage_score": 0.92,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "2015"
+          ]
+        },
+        {
+          "name": "Cowspiracy: The Sustainability Secret",
+          "entity_id": "9F968B8E-8528-4ADC-B080-61A1A9734788",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.8417,
+          "popularity": 0.9404,
+          "popularity_known": true,
+          "arbitrage_score": 0.9,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "2014"
+          ]
+        },
+        {
+          "name": "Expedition Happiness",
+          "entity_id": "17C547D2-9C9D-4716-B5D2-DB07D1BF975F",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.8407,
+          "popularity": 0.8261,
+          "popularity_known": true,
+          "arbitrage_score": 1.02,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "2017"
+          ]
+        }
+      ],
+      "podcasts": [
+        {
+          "name": "Fitness Confidential",
+          "entity_id": "CAAD7E55-7D07-4010-896C-479AADE55F82",
+          "domain": "podcast",
+          "subtype": "urn:entity:podcast",
+          "affinity": 0.8689,
+          "popularity": 0.9699,
+          "popularity_known": true,
+          "arbitrage_score": 0.9,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Fitness Confidential with Vinnie Tortorich",
+            "Vinnie Tortorich dispels weight loss myths and shares insights on fitness and health with expert guests."
+          ]
+        },
+        {
+          "name": "Boundless Life",
+          "entity_id": "F52073F5-659B-4FBA-B518-7404566F6F2F",
+          "domain": "podcast",
+          "subtype": "urn:entity:podcast",
+          "affinity": 0.8587,
+          "popularity": 0.9913,
+          "popularity_known": true,
+          "arbitrage_score": 0.87,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Ben Greenfield Life",
+            "Cutting-edge health advice and insights on fitness, nutrition, and biohacking from experts and ancestral wisdom."
+          ]
+        }
+      ],
+      "brands": [
+        {
+          "name": "NYDJ",
+          "entity_id": "659058CF-BF50-472B-B789-AAD5A8D5D034",
+          "domain": "brand",
+          "subtype": "urn:entity:brand",
+          "affinity": 0.8463,
+          "popularity": 0.8855,
+          "popularity_known": true,
+          "arbitrage_score": 0.96,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Fashion & Apparel",
+            "Retail",
+            "Lift Tuck Technology"
+          ]
+        },
+        {
+          "name": "Pair of Thieves",
+          "entity_id": "4632DE96-FD24-4B70-9F52-EFF365FE932E",
+          "domain": "brand",
+          "subtype": "urn:entity:brand",
+          "affinity": 0.8457,
+          "popularity": 0.884,
+          "popularity_known": true,
+          "arbitrage_score": 0.96,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Fashion & Apparel",
+            "Consumer Packaged Goods",
+            "Basics"
+          ]
+        },
+        {
+          "name": "Ark Swimwear",
+          "entity_id": "60F18486-6E00-46B2-AD70-5242E11BD50B",
+          "domain": "brand",
+          "subtype": "urn:entity:brand",
+          "affinity": 0.8337,
+          "popularity": 0.9224,
+          "popularity_known": true,
+          "arbitrage_score": 0.9,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Fashion & Apparel",
+            "Swimwear",
+            "Minimalist Swimwear"
+          ]
+        }
+      ],
+      "taste_tags": [
+        {
+          "tag_id": "urn:tag:theme:qloo:overcoming_challenges",
+          "name": "Overcoming Challenges",
+          "subtype": "urn:tag:theme:qloo",
+          "source": "discovered",
+          "affinity": 0.997,
+          "popularity": 0.9974
+        },
+        {
+          "tag_id": "urn:tag:audience:qloo:superhero_loving",
+          "name": "Superhero-Loving",
+          "subtype": "urn:tag:audience:qloo",
+          "source": "discovered",
+          "affinity": 0.9966,
+          "popularity": 0.9374
+        },
+        {
+          "tag_id": "urn:tag:lifestyle:qloo:supportive",
+          "name": "Supportive",
+          "subtype": "urn:tag:lifestyle:qloo",
+          "source": "discovered",
+          "affinity": 0.9948,
+          "popularity": 0.8736
+        },
+        {
+          "tag_id": "urn:tag:lifestyle:qloo:body_confidence",
+          "name": "Body Confidence",
+          "subtype": "urn:tag:lifestyle:qloo",
+          "source": "discovered",
+          "affinity": 0.9943,
+          "popularity": 0.9911
+        },
+        {
+          "tag_id": "urn:tag:music:qloo:anthemic",
+          "name": "Anthemic",
+          "subtype": "urn:tag:music:qloo",
+          "source": "discovered",
+          "affinity": 0.9928,
+          "popularity": 0.9983
+        },
+        {
+          "tag_id": "urn:tag:cuisine:qloo:matcha",
+          "name": "Matcha",
+          "source": "seed"
+        },
+        {
+          "tag_id": "urn:tag:keyword:qloo:natural_ingredients",
+          "name": "Natural Ingredients",
+          "source": "seed"
+        }
+      ],
+      "demographic_focus": {
+        "source": "aggregate",
+        "age_min": 18,
+        "age_max": 27,
+        "genders": [
+          2
+        ],
+        "age_lifts": {
+          "24_and_younger": 0.47,
+          "25_to_29": 0.47,
+          "30_to_34": -0.86,
+          "35_to_44": 0.27,
+          "45_to_54": -0.58,
+          "55_and_older": -0.57
+        },
+        "gender_lifts": {
+          "male": -0.65,
+          "female": 0.65
+        },
+        "top_positive_cohorts": [
+          {
+            "cohort": "24_and_younger",
+            "label": "24 and younger",
+            "lift": 0.47
+          },
+          {
+            "cohort": "25_to_29",
+            "label": "25-29",
+            "lift": 0.47
+          },
+          {
+            "cohort": "35_to_44",
+            "label": "35-44",
+            "lift": 0.27
+          }
+        ],
+        "excluded_cohorts": [
+          {
+            "cohort": "30_to_34",
+            "label": "30-34",
+            "lift": -0.86
+          },
+          {
+            "cohort": "45_to_54",
+            "label": "45-54",
+            "lift": -0.58
+          },
+          {
+            "cohort": "55_and_older",
+            "label": "55 and older",
+            "lift": -0.57
+          }
+        ],
+        "top_cohort": "24_and_younger",
+        "top_cohort_label": "24 and younger",
+        "top_cohort_lift": 0.47
+      },
+      "allocation": {
+        "artists": "mainstream popularity >= 0.72",
+        "movies": "affinity",
+        "podcasts": "affinity",
+        "brands": "mainstream popularity >= 0.85"
+      },
+      "required_mentions": {
+        "artists": [
+          "Red Cafe",
+          "Ryan Leslie",
+          "Maino",
+          "Swizz Beatz"
+        ],
+        "movies": [
+          "Minimalism: A Documentary About the Important Things",
+          "Cowspiracy: The Sustainability Secret",
+          "Expedition Happiness"
+        ],
+        "podcasts": [
+          "Fitness Confidential",
+          "Boundless Life"
+        ],
+        "brands": [
+          "NYDJ",
+          "Pair of Thieves",
+          "Ark Swimwear"
+        ],
+        "venues": [
+          "sweetgreen - Healthy Salads, Wraps, and Bowls",
+          "JOE & THE JUICE",
+          "Miansai SoHo"
+        ],
+        "tags": [
+          "Overcoming Challenges",
+          "Superhero-Loving",
+          "Supportive",
+          "Body Confidence",
+          "Anthemic",
+          "Matcha",
+          "Natural Ingredients"
+        ],
+        "geo_label": "Lower East Side",
+        "competitor": null
+      }
+    },
+    {
+      "packet_id": "underground_arbitrage",
+      "label": "The Subculture / Low-CPM Arbitrage",
+      "strategy_id": "tribe_2",
+      "product_context": {
+        "brand_name": "chaen",
+        "product_description": "matcha energy drink",
+        "location_query": "New York, NY",
+        "seed_entities": [
+          "MatchaBar",
+          "RUNA"
+        ],
+        "competitor_entities": [
+          "Red Bull"
+        ]
+      },
+      "geo_pin": {
+        "latitude": 40.715332,
+        "longitude": -74.02588,
+        "geohash": "dr5re",
+        "affinity": 0.9988,
+        "affinity_rank": 0.9211,
+        "popularity": 0.9988,
+        "neighborhood_label": "Colgate Center",
+        "nearest_venue": "Laughing Man Coffee",
+        "nearest_venue_distance_km": 1.34,
+        "label_source": "nominatim"
+      },
+      "venues": [
+        {
+          "name": "Laughing Man Coffee",
+          "entity_id": "42839B94-FC54-42E7-913E-020DD7DDD9D6",
+          "domain": "place",
+          "subtype": "urn:entity:place",
+          "affinity": 0.8473,
+          "popularity": 0.9642,
+          "popularity_known": true,
+          "arbitrage_score": 0.88,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+            "name": "MatchaBar",
+            "score": 0.5835,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "184 Duane St New York, NY 10013",
+            "outdoor seating",
+            "matcha",
+            "no wifi"
+          ],
+          "address": "184 Duane St New York, NY 10013",
+          "latitude": 40.717264,
+          "longitude": -74.010131,
+          "has_coordinates": true,
+          "geocode": {
+            "city": "New York",
+            "name": "Tribeca",
+            "metro": "New York City",
+            "country": "United States",
+            "country_code": "US",
+            "admin1_region": "New York",
+            "admin2_region": "New York County"
+          },
+          "distance_km": 1.34,
+          "assigned_pin_index": 1
+        },
+        {
+          "name": "Gotan",
+          "entity_id": "E9F6EF10-7EE5-4902-9F82-B59450BEEA48",
+          "domain": "place",
+          "subtype": "urn:entity:place",
+          "affinity": 0.8484,
+          "popularity": 0.9549,
+          "popularity_known": true,
+          "arbitrage_score": 0.89,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+            "name": "MatchaBar",
+            "score": 0.5898,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "130 Franklin St New York, NY 10013",
+            "avocado toast",
+            "no wifi",
+            "outdoor seating"
+          ],
+          "address": "130 Franklin St New York, NY 10013",
+          "latitude": 40.719255,
+          "longitude": -74.006608,
+          "has_coordinates": true,
+          "geocode": {
+            "city": "New York",
+            "name": "Tribeca",
+            "metro": "New York City",
+            "country": "United States",
+            "country_code": "US",
+            "admin1_region": "New York",
+            "admin2_region": "New York County"
+          },
+          "distance_km": 1.68,
+          "assigned_pin_index": 1
+        },
+        {
+          "name": "Ground Support Cafe",
+          "entity_id": "F750A817-C762-44DB-BE2D-32CBB7CD1EA7",
+          "domain": "place",
+          "subtype": "urn:entity:place",
+          "affinity": 0.8474,
+          "popularity": 0.9675,
+          "popularity_known": true,
+          "arbitrage_score": 0.88,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+            "name": "MatchaBar",
+            "score": 0.6176,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "399 W Broadway New York, NY 10012",
+            "sandwiches",
+            "outdoor seating",
+            "matcha latte"
+          ],
+          "address": "399 W Broadway New York, NY 10012",
+          "latitude": 40.72429,
+          "longitude": -74.001961,
+          "has_coordinates": true,
+          "geocode": {
+            "city": "New York",
+            "name": "SoHo",
+            "metro": "New York City",
+            "country": "United States",
+            "country_code": "US",
+            "admin1_region": "New York",
+            "admin2_region": "New York County"
+          },
+          "distance_km": 2.25,
+          "assigned_pin_index": 1,
+          "backfilled": true
+        }
+      ],
+      "competitor": null,
+      "artists": [
+        {
+          "name": "Mack Wilds",
+          "entity_id": "C23FFCF9-ABEE-4E81-8831-20D5C033528E",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.8933,
+          "popularity": 0.8061,
+          "popularity_known": true,
+          "arbitrage_score": 1.11,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "R&B",
+            "Hip Hop",
+            "Soul"
+          ]
+        },
+        {
+          "name": "Ron Browz",
+          "entity_id": "F9AEC998-34FE-4CEE-AA0F-8A228A09162E",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.8907,
+          "popularity": 0.8858,
+          "popularity_known": true,
+          "arbitrage_score": 1.01,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Hip Hop",
+            "Rap"
+          ]
+        },
+        {
+          "name": "Rico Love",
+          "entity_id": "257EC22D-17FC-4651-A467-299A704AF4CB",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.8914,
+          "popularity": 0.8883,
+          "popularity_known": true,
+          "arbitrage_score": 1.0,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "R&B",
+            "Hip Hop",
+            "Soul"
+          ]
+        },
+        {
+          "name": "Cassie",
+          "entity_id": "EB144198-404F-4181-B33C-DBEB19360456",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.8928,
+          "popularity": 0.994,
+          "popularity_known": true,
+          "arbitrage_score": 0.9,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "R&B",
+            "Pop",
+            "Hip Hop"
+          ]
+        }
+      ],
+      "movies": [
+        {
+          "name": "A Plastic Ocean",
+          "entity_id": "05B64834-4353-4422-9199-B733FAC70D55",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.8396,
+          "popularity": 0.7534,
+          "popularity_known": true,
+          "arbitrage_score": 1.11,
+          "high_arbitrage": true,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "2016"
+          ]
+        },
+        {
+          "name": "Tony Robbins: I Am Not Your Guru",
+          "entity_id": "42882732-F0A7-49C2-A39B-68319888AA93",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.8335,
+          "popularity": 0.7931,
+          "popularity_known": true,
+          "arbitrage_score": 1.05,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "2016"
+          ]
+        },
+        {
+          "name": "Chasing Coral",
+          "entity_id": "B4E990F2-0D79-474A-8094-35DA5335D59E",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.8358,
+          "popularity": 0.8607,
+          "popularity_known": true,
+          "arbitrage_score": 0.97,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "2017"
+          ]
+        }
+      ],
+      "podcasts": [
+        {
+          "name": "Balanced Bites: Talk on Food, Fitness, & Life with Liz Wolfe",
+          "entity_id": "8AFF3E5A-DA1F-498A-B5B2-A1D17C4A5F34",
+          "domain": "podcast",
+          "subtype": "urn:entity:podcast",
+          "affinity": 0.8518,
+          "popularity": 0.9604,
+          "popularity_known": true,
+          "arbitrage_score": 0.89,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Balanced Bites: Talk on Food, Fitness, & Life with Liz Wolfe",
+            "Liz Wolfe shares insights on food, fitness, and life with influential leaders in the wellness industry."
+          ]
+        },
+        {
+          "name": "Abel James Show",
+          "entity_id": "CE87EDCD-CFAE-44F1-B615-8048C12B2262",
+          "domain": "podcast",
+          "subtype": "urn:entity:podcast",
+          "affinity": 0.8586,
+          "popularity": 0.9836,
+          "popularity_known": true,
+          "arbitrage_score": 0.87,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Fat-Burning Man with Abel James",
+            "Cutting-edge insights from world-class leaders in health, fitness, and entrepreneurship through in-depth interviews."
+          ]
+        }
+      ],
+      "brands": [
+        {
+          "name": "Phlur",
+          "entity_id": "D052D957-8A7E-43BF-8EF0-027F3A09C164",
+          "domain": "brand",
+          "subtype": "urn:entity:brand",
+          "affinity": 0.8475,
+          "popularity": 0.7567,
+          "popularity_known": true,
+          "arbitrage_score": 1.12,
+          "high_arbitrage": true,
+          "signal_contribution": null,
+          "descriptors": [
+            "Beauty & Personal Care",
+            "Home Goods",
+            "Clean Fragrance"
+          ]
+        },
+        {
+          "name": "Filorga",
+          "entity_id": "9694E7B0-7F60-4D39-B0E1-5632EDB4A1C6",
+          "domain": "brand",
+          "subtype": "urn:entity:brand",
+          "affinity": 0.8475,
+          "popularity": 0.7866,
+          "popularity_known": true,
+          "arbitrage_score": 1.08,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Beauty & Personal Care",
+            "Health & Wellness",
+            "Anti-Aging"
+          ]
+        },
+        {
+          "name": "C'est Moi",
+          "entity_id": "A4CC9DEB-F8C4-4166-B4AD-F15FB18D445C",
+          "domain": "brand",
+          "subtype": "urn:entity:brand",
+          "affinity": 0.84,
+          "popularity": 0.8247,
+          "popularity_known": true,
+          "arbitrage_score": 1.02,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Beauty & Personal Care",
+            "Clean Beauty",
+            "Sensitive Skin"
+          ]
+        }
+      ],
+      "taste_tags": [
+        {
+          "tag_id": "urn:tag:lifestyle:qloo:maternity",
+          "name": "Maternity",
+          "subtype": "urn:tag:lifestyle:qloo",
+          "source": "discovered",
+          "affinity": 0.9928,
+          "popularity": 0.8143
+        },
+        {
+          "tag_id": "urn:tag:lifestyle:qloo:summer",
+          "name": "Summer",
+          "subtype": "urn:tag:lifestyle:qloo",
+          "source": "discovered",
+          "affinity": 0.9923,
+          "popularity": 0.8907
+        },
+        {
+          "tag_id": "urn:tag:theme:qloo:football_analysis",
+          "name": "Football Analysis",
+          "subtype": "urn:tag:theme:qloo",
+          "source": "discovered",
+          "affinity": 0.9922,
+          "popularity": 0.9784
+        },
+        {
+          "tag_id": "urn:tag:lifestyle:qloo:balanced_lifestyle",
+          "name": "Balanced Lifestyle",
+          "subtype": "urn:tag:lifestyle:qloo",
+          "source": "discovered",
+          "affinity": 0.9918,
+          "popularity": 0.9885
+        },
+        {
+          "tag_id": "urn:tag:lifestyle:qloo:nightlife",
+          "name": "Nightlife",
+          "subtype": "urn:tag:lifestyle:qloo",
+          "source": "discovered",
+          "affinity": 0.9915,
+          "popularity": 0.9986
+        },
+        {
+          "tag_id": "urn:tag:cuisine:qloo:health_drinks",
+          "name": "Health Drinks",
+          "source": "seed"
+        }
+      ],
+      "demographic_focus": {
+        "source": "aggregate",
+        "age_min": 22,
+        "age_max": 34,
+        "genders": [
+          1,
+          2
+        ],
+        "age_lifts": {
+          "24_and_younger": 0.47,
+          "25_to_29": 0.47,
+          "30_to_34": -0.86,
+          "35_to_44": 0.27,
+          "45_to_54": -0.58,
+          "55_and_older": -0.57
+        },
+        "gender_lifts": {
+          "male": -0.65,
+          "female": 0.65
+        },
+        "top_positive_cohorts": [
+          {
+            "cohort": "24_and_younger",
+            "label": "24 and younger",
+            "lift": 0.47
+          },
+          {
+            "cohort": "25_to_29",
+            "label": "25-29",
+            "lift": 0.47
+          },
+          {
+            "cohort": "35_to_44",
+            "label": "35-44",
+            "lift": 0.27
+          }
+        ],
+        "excluded_cohorts": [
+          {
+            "cohort": "30_to_34",
+            "label": "30-34",
+            "lift": -0.86
+          },
+          {
+            "cohort": "45_to_54",
+            "label": "45-54",
+            "lift": -0.58
+          },
+          {
+            "cohort": "55_and_older",
+            "label": "55 and older",
+            "lift": -0.57
+          }
+        ],
+        "top_cohort": "24_and_younger",
+        "top_cohort_label": "24 and younger",
+        "top_cohort_lift": 0.47
+      },
+      "allocation": {
+        "artists": "arbitrage",
+        "movies": "arbitrage",
+        "podcasts": "arbitrage",
+        "brands": "arbitrage among brands with known popularity"
+      },
+      "required_mentions": {
+        "artists": [
+          "Mack Wilds",
+          "Ron Browz",
+          "Rico Love",
+          "Cassie"
+        ],
+        "movies": [
+          "A Plastic Ocean",
+          "Tony Robbins: I Am Not Your Guru",
+          "Chasing Coral"
+        ],
+        "podcasts": [
+          "Balanced Bites: Talk on Food, Fitness, & Life with Liz Wolfe",
+          "Abel James Show"
+        ],
+        "brands": [
+          "Phlur",
+          "Filorga",
+          "C'est Moi"
+        ],
+        "venues": [
+          "Laughing Man Coffee",
+          "Gotan",
+          "Ground Support Cafe"
+        ],
+        "tags": [
+          "Maternity",
+          "Summer",
+          "Football Analysis",
+          "Balanced Lifestyle",
+          "Nightlife",
+          "Health Drinks"
+        ],
+        "geo_label": "Colgate Center",
+        "competitor": null
+      },
+      "arbitrage_leaders": [
+        {
+          "name": "Phlur",
+          "entity_id": "D052D957-8A7E-43BF-8EF0-027F3A09C164",
+          "domain": "brand",
+          "subtype": "urn:entity:brand",
+          "affinity": 0.8475,
+          "popularity": 0.7567,
+          "popularity_known": true,
+          "arbitrage_score": 1.12,
+          "high_arbitrage": true,
+          "signal_contribution": null,
+          "descriptors": [
+            "Beauty & Personal Care",
+            "Home Goods",
+            "Clean Fragrance"
+          ]
+        },
+        {
+          "name": "Mack Wilds",
+          "entity_id": "C23FFCF9-ABEE-4E81-8831-20D5C033528E",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.8933,
+          "popularity": 0.8061,
+          "popularity_known": true,
+          "arbitrage_score": 1.11,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "R&B",
+            "Hip Hop",
+            "Soul"
+          ]
+        },
+        {
+          "name": "A Plastic Ocean",
+          "entity_id": "05B64834-4353-4422-9199-B733FAC70D55",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.8396,
+          "popularity": 0.7534,
+          "popularity_known": true,
+          "arbitrage_score": 1.11,
+          "high_arbitrage": true,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "2016"
+          ]
+        },
+        {
+          "name": "Filorga",
+          "entity_id": "9694E7B0-7F60-4D39-B0E1-5632EDB4A1C6",
+          "domain": "brand",
+          "subtype": "urn:entity:brand",
+          "affinity": 0.8475,
+          "popularity": 0.7866,
+          "popularity_known": true,
+          "arbitrage_score": 1.08,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Beauty & Personal Care",
+            "Health & Wellness",
+            "Anti-Aging"
+          ]
+        },
+        {
+          "name": "Tony Robbins: I Am Not Your Guru",
+          "entity_id": "42882732-F0A7-49C2-A39B-68319888AA93",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.8335,
+          "popularity": 0.7931,
+          "popularity_known": true,
+          "arbitrage_score": 1.05,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "2016"
+          ]
+        },
+        {
+          "name": "Expedition Happiness",
+          "entity_id": "17C547D2-9C9D-4716-B5D2-DB07D1BF975F",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.8407,
+          "popularity": 0.8261,
+          "popularity_known": true,
+          "arbitrage_score": 1.02,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "2017"
+          ]
+        }
+      ],
+      "artist_seed_demographics": []
+    },
+    {
+      "packet_id": "competitor_conquest",
+      "label": "The Category Switcher vs. Competitor",
+      "strategy_id": "tribe_3",
+      "product_context": {
+        "brand_name": "chaen",
+        "product_description": "matcha energy drink",
+        "location_query": "New York, NY",
+        "seed_entities": [
+          "MatchaBar",
+          "RUNA"
+        ],
+        "competitor_entities": [
+          "Red Bull"
+        ]
+      },
+      "geo_pin": {
+        "latitude": 40.759277,
+        "longitude": -73.98193,
+        "geohash": "dr5ru",
+        "affinity": 0.9975,
+        "affinity_rank": 0.92,
+        "popularity": 1.0,
+        "neighborhood_label": "Theater District",
+        "nearest_venue": "Juice Generation",
+        "nearest_venue_distance_km": 0.93,
+        "label_source": "nominatim"
+      },
+      "venues": [
+        {
+          "name": "Juice Generation",
+          "entity_id": "18C5ECB9-83E2-450F-8F56-3DAE1787E708",
+          "domain": "place",
+          "subtype": "urn:entity:place",
+          "affinity": 0.845,
+          "popularity": 0.6676,
+          "popularity_known": true,
+          "arbitrage_score": 1.27,
+          "high_arbitrage": true,
+          "signal_contribution": {
+            "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+            "name": "MatchaBar",
+            "score": 0.5516,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "599 Lexington Ave New York, NY 10022",
+            "acai bowls",
+            "peanut butter split",
+            "almond milk"
+          ],
+          "address": "599 Lexington Ave New York, NY 10022",
+          "latitude": 40.757943,
+          "longitude": -73.971,
+          "has_coordinates": true,
+          "geocode": {
+            "city": "New York",
+            "name": "Turtle Bay",
+            "metro": "New York City",
+            "country": "United States",
+            "country_code": "US",
+            "admin1_region": "New York",
+            "admin2_region": "New York County"
+          },
+          "distance_km": 0.93,
+          "assigned_pin_index": 2
+        },
+        {
+          "name": "Telegraphe Cafe.",
+          "entity_id": "A5B0401C-2CF7-4F87-A494-7EF85C76AC4F",
+          "domain": "place",
+          "subtype": "urn:entity:place",
+          "affinity": 0.8469,
+          "popularity": 0.6382,
+          "popularity_known": true,
+          "arbitrage_score": 1.33,
+          "high_arbitrage": true,
+          "signal_contribution": {
+            "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+            "name": "MatchaBar",
+            "score": 0.606,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "107 W 18th St New York, NY 10011",
+            "bagels",
+            "egg sandwiches",
+            "outdoor seating"
+          ],
+          "address": "107 W 18th St New York, NY 10011",
+          "latitude": 40.74017,
+          "longitude": -73.995518,
+          "has_coordinates": true,
+          "geocode": {
+            "city": "New York",
+            "name": "Chelsea",
+            "metro": "New York City",
+            "country": "United States",
+            "country_code": "US",
+            "admin1_region": "New York",
+            "admin2_region": "New York County"
+          },
+          "distance_km": 2.41,
+          "assigned_pin_index": 2
+        },
+        {
+          "name": "Juice Generation",
+          "entity_id": "E7437F9C-C008-431B-B97A-66E07A9119BA",
+          "domain": "place",
+          "subtype": "urn:entity:place",
+          "affinity": 0.8529,
+          "popularity": 0.7406,
+          "popularity_known": true,
+          "arbitrage_score": 1.15,
+          "high_arbitrage": true,
+          "signal_contribution": {
+            "entity_id": "A4C7B439-7CDE-4786-992D-8348AB89B5B1",
+            "name": "MatchaBar",
+            "score": 0.581,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "28 E 18th St New York, NY 10003",
+            "acai bowl",
+            "smoothies",
+            "peanut butter smoothie"
+          ],
+          "address": "28 E 18th St New York, NY 10003",
+          "latitude": 40.737576,
+          "longitude": -73.989919,
+          "has_coordinates": true,
+          "geocode": {
+            "city": "New York",
+            "name": "Union Square",
+            "metro": "New York City",
+            "country": "United States",
+            "country_code": "US",
+            "admin1_region": "New York",
+            "admin2_region": "New York County"
+          },
+          "distance_km": 2.51,
+          "assigned_pin_index": 2
+        }
+      ],
+      "competitor": "Red Bull",
+      "artists": [
+        {
+          "name": "Fabolous",
+          "entity_id": "883BB31D-FFCA-4072-B447-9AF671879C97",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.8925,
+          "popularity": 0.9948,
+          "popularity_known": true,
+          "arbitrage_score": 0.9,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Hip Hop",
+            "Rap"
+          ]
+        },
+        {
+          "name": "Usher",
+          "entity_id": "566AA231-1670-45BC-831F-1B2FD95BF9DE",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.892,
+          "popularity": 0.9991,
+          "popularity_known": true,
+          "arbitrage_score": 0.89,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Rhythm & Blues",
+            "Hip Hop",
+            "Rap"
+          ]
+        },
+        {
+          "name": "Timbaland",
+          "entity_id": "245D6A31-BD68-4C89-BEBE-13C33608C276",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.8912,
+          "popularity": 0.999,
+          "popularity_known": true,
+          "arbitrage_score": 0.89,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Hip Hop",
+            "Rap",
+            "Rhythm & Blues"
+          ]
+        },
+        {
+          "name": "Jay Sean",
+          "entity_id": "E98AC92B-C5F4-4340-94E3-075E354A8540",
+          "domain": "artist",
+          "subtype": "urn:entity:artist",
+          "affinity": 0.8908,
+          "popularity": 0.9955,
+          "popularity_known": true,
+          "arbitrage_score": 0.89,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "R&B",
+            "Pop",
+            "Contemporary R&B"
+          ]
+        }
+      ],
+      "movies": [
+        {
+          "name": "Before the Flood",
+          "entity_id": "24BF23D6-AE71-41EA-9372-E24F313F2063",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.839,
+          "popularity": 0.9345,
+          "popularity_known": true,
+          "arbitrage_score": 0.9,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "News",
+            "2016"
+          ]
+        },
+        {
+          "name": "The True Cost",
+          "entity_id": "DB28BF14-E0D4-4B01-8D56-AE76B90C3F9B",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.8386,
+          "popularity": 0.8754,
+          "popularity_known": true,
+          "arbitrage_score": 0.96,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "Drama",
+            "News",
+            "2015"
+          ]
+        },
+        {
+          "name": "What the Health",
+          "entity_id": "BA4FDCD8-3AC5-460A-841E-EBD41165D13A",
+          "domain": "movie",
+          "subtype": "urn:entity:movie",
+          "affinity": 0.8381,
+          "popularity": 0.9272,
+          "popularity_known": true,
+          "arbitrage_score": 0.9,
+          "high_arbitrage": false,
+          "signal_contribution": {
+            "entity_id": "BF923F2D-5113-4091-B7A5-C5B0EB5B67B6",
+            "name": "RUNA",
+            "score": 1.0,
+            "source": "signal.interests.entities"
+          },
+          "descriptors": [
+            "Documentary",
+            "2017"
+          ]
+        }
+      ],
+      "podcasts": [
+        {
+          "name": "The Human Upgrade with Dave Asprey",
+          "entity_id": "BB4668FF-2689-4E4A-AB52-A4F78F4A3FFC",
+          "domain": "podcast",
+          "subtype": "urn:entity:podcast",
+          "affinity": 0.8499,
+          "popularity": 0.9882,
+          "popularity_known": true,
+          "arbitrage_score": 0.86,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "The Human Upgrade with Dave Asprey",
+            "Explore human potential through insights from experts in science, technology, and personal development with Dave Asprey."
+          ]
+        },
+        {
+          "name": "The Model Health Show",
+          "entity_id": "D73E63EB-823E-432F-8D98-D2331BC07FC7",
+          "domain": "podcast",
+          "subtype": "urn:entity:podcast",
+          "affinity": 0.8486,
+          "popularity": 0.9932,
+          "popularity_known": true,
+          "arbitrage_score": 0.85,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "The Model Health Show",
+            "Shawn Stevenson simplifies complex health issues, covering topics like weight loss, diet, and sleep to help listeners tr..."
+          ]
+        }
+      ],
+      "brands": [
+        {
+          "name": "Mutha",
+          "entity_id": "52756B93-5873-49C1-B436-7188ACE01578",
+          "domain": "brand",
+          "subtype": "urn:entity:brand",
+          "affinity": 0.841,
+          "popularity": 0.8305,
+          "popularity_known": true,
+          "arbitrage_score": 1.01,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Beauty & Personal Care",
+            "Health & Wellness",
+            "Maternal Health"
+          ]
+        },
+        {
+          "name": "Get rael",
+          "entity_id": "727E7634-B299-4087-982E-5D49B350B326",
+          "domain": "brand",
+          "subtype": "urn:entity:brand",
+          "affinity": 0.8375,
+          "popularity": 0.8301,
+          "popularity_known": true,
+          "arbitrage_score": 1.01,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Beauty & Personal Care",
+            "Health & Wellness",
+            "Consumer Packaged Goods"
+          ]
+        },
+        {
+          "name": "Andar Leather Goods",
+          "entity_id": "FFA1C16E-E8D0-4969-B75B-5DEB18ED03B5",
+          "domain": "brand",
+          "subtype": "urn:entity:brand",
+          "affinity": 0.8325,
+          "popularity": 0.8172,
+          "popularity_known": true,
+          "arbitrage_score": 1.02,
+          "high_arbitrage": false,
+          "signal_contribution": null,
+          "descriptors": [
+            "Fashion & Apparel",
+            "Accessories",
+            "Everyday Carry"
+          ]
+        }
+      ],
+      "taste_tags": [
+        {
+          "tag_id": "urn:tag:offerings:place:alcohol",
+          "name": "Alcohol",
+          "subtype": "urn:tag:offerings:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:dining_options:place:catering",
+          "name": "Catering",
+          "subtype": "urn:tag:dining_options:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:dining_options:place:table_service",
+          "name": "Table service",
+          "subtype": "urn:tag:dining_options:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 0.9997
+        },
+        {
+          "tag_id": "urn:tag:dining_options:place:dessert",
+          "name": "Dessert",
+          "subtype": "urn:tag:dining_options:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:offerings:place:coffee",
+          "name": "Coffee",
+          "subtype": "urn:tag:offerings:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:offerings:place:comfort_food",
+          "name": "Comfort food",
+          "subtype": "urn:tag:offerings:place",
+          "source": "compare",
+          "affinity": null,
+          "popularity": 1.0
+        },
+        {
+          "tag_id": "urn:tag:interests:qloo:energy_drinks",
+          "name": "Energy Drinks",
+          "source": "seed"
+        },
+        {
+          "tag_id": "urn:tag:hobby:qloo:public_speaking",
+          "name": "Public Speaking",
+          "subtype": "urn:tag:hobby:qloo",
+          "source": "discovered",
+          "affinity": 0.9915,
+          "popularity": 0.9891
+        }
+      ],
+      "demographic_focus": {
+        "source": "aggregate",
+        "age_min": 28,
+        "age_max": 44,
+        "genders": [
+          1,
+          2
+        ],
+        "age_lifts": {
+          "24_and_younger": 0.47,
+          "25_to_29": 0.47,
+          "30_to_34": -0.86,
+          "35_to_44": 0.27,
+          "45_to_54": -0.58,
+          "55_and_older": -0.57
+        },
+        "gender_lifts": {
+          "male": -0.65,
+          "female": 0.65
+        },
+        "top_positive_cohorts": [
+          {
+            "cohort": "24_and_younger",
+            "label": "24 and younger",
+            "lift": 0.47
+          },
+          {
+            "cohort": "25_to_29",
+            "label": "25-29",
+            "lift": 0.47
+          },
+          {
+            "cohort": "35_to_44",
+            "label": "35-44",
+            "lift": 0.27
+          }
+        ],
+        "excluded_cohorts": [
+          {
+            "cohort": "30_to_34",
+            "label": "30-34",
+            "lift": -0.86
+          },
+          {
+            "cohort": "45_to_54",
+            "label": "45-54",
+            "lift": -0.58
+          },
+          {
+            "cohort": "55_and_older",
+            "label": "55 and older",
+            "lift": -0.57
+          }
+        ],
+        "top_cohort": "24_and_younger",
+        "top_cohort_label": "24 and younger",
+        "top_cohort_lift": 0.47
+      },
+      "allocation": {
+        "artists": "affinity",
+        "movies": "affinity",
+        "podcasts": "affinity",
+        "brands": "affinity"
+      },
+      "required_mentions": {
+        "artists": [
+          "Fabolous",
+          "Usher",
+          "Timbaland",
+          "Jay Sean"
+        ],
+        "movies": [
+          "Before the Flood",
+          "The True Cost",
+          "What the Health"
+        ],
+        "podcasts": [
+          "The Human Upgrade with Dave Asprey",
+          "The Model Health Show"
+        ],
+        "brands": [
+          "Mutha",
+          "Get rael",
+          "Andar Leather Goods"
+        ],
+        "venues": [
+          "Juice Generation",
+          "Telegraphe Cafe.",
+          "Juice Generation"
+        ],
+        "tags": [
+          "Alcohol",
+          "Catering",
+          "Table service",
+          "Dessert",
+          "Coffee",
+          "Comfort food",
+          "Energy Drinks",
+          "Public Speaking"
+        ],
+        "geo_label": "Theater District",
+        "competitor": "Red Bull"
+      },
+      "compare": {
+        "competitor_name": "Red Bull",
+        "a_signal_entities": [
+          "MatchaBar",
+          "RUNA"
+        ],
+        "b_signal_entities": [
+          "Red Bull"
+        ],
+        "shared_tags": [
+          {
+            "tag_id": "urn:tag:genre:brand:food_and_beverage",
+            "name": "Food & Beverage",
+            "subtype": "urn:tag:genre:brand",
+            "source": "compare_shared",
+            "affinity": null,
+            "popularity": 0.9972,
+            "score": 0.7305
+          },
+          {
+            "tag_id": "urn:tag:genre:brand:food_and_beverage:drinks",
+            "name": "Drinks",
+            "subtype": "urn:tag:genre:brand",
+            "source": "compare_shared",
+            "affinity": null,
+            "popularity": 0.9931,
+            "score": 0.7297
+          },
+          {
+            "tag_id": "urn:tag:genre:brand:food_and_beverage:drinks:energy_drink",
+            "name": "Energy Drink",
+            "subtype": "urn:tag:genre:brand",
+            "source": "compare_shared",
+            "affinity": null,
+            "popularity": 0.9092,
+            "score": 0.7128
+          }
+        ],
+        "a_only_tags": [
+          {
+            "tag_id": "urn:tag:offerings:place:alcohol",
+            "name": "Alcohol",
+            "subtype": "urn:tag:offerings:place",
+            "source": "compare",
+            "affinity": null,
+            "popularity": 1.0
+          },
+          {
+            "tag_id": "urn:tag:dining_options:place:catering",
+            "name": "Catering",
+            "subtype": "urn:tag:dining_options:place",
+            "source": "compare",
+            "affinity": null,
+            "popularity": 1.0
+          },
+          {
+            "tag_id": "urn:tag:dining_options:place:table_service",
+            "name": "Table service",
+            "subtype": "urn:tag:dining_options:place",
+            "source": "compare",
+            "affinity": null,
+            "popularity": 0.9997
+          },
+          {
+            "tag_id": "urn:tag:dining_options:place:dessert",
+            "name": "Dessert",
+            "subtype": "urn:tag:dining_options:place",
+            "source": "compare",
+            "affinity": null,
+            "popularity": 1.0
+          },
+          {
+            "tag_id": "urn:tag:offerings:place:coffee",
+            "name": "Coffee",
+            "subtype": "urn:tag:offerings:place",
+            "source": "compare",
+            "affinity": null,
+            "popularity": 1.0
+          },
+          {
+            "tag_id": "urn:tag:offerings:place:comfort_food",
+            "name": "Comfort food",
+            "subtype": "urn:tag:offerings:place",
+            "source": "compare",
+            "affinity": null,
+            "popularity": 1.0
+          },
+          {
+            "tag_id": "urn:tag:category:place:cafe",
+            "name": "Cafe",
+            "subtype": "urn:tag:category:place",
+            "source": "compare",
+            "affinity": null,
+            "popularity": 1.0
+          },
+          {
+            "tag_id": "urn:tag:offerings:place:small_plates",
+            "name": "Small plates",
+            "subtype": "urn:tag:offerings:place",
+            "source": "compare",
+            "affinity": null,
+            "popularity": 1.0
+          },
+          {
+            "tag_id": "urn:tag:offerings:place:happy_hour_food",
+            "name": "Happy hour food",
+            "subtype": "urn:tag:offerings:place",
+            "source": "compare",
+            "affinity": null,
+            "popularity": 0.9999
+          },
+          {
+            "tag_id": "urn:tag:offerings:place:late_night_food",
+            "name": "Late-night food",
+            "subtype": "urn:tag:offerings:place",
+            "source": "compare",
+            "affinity": null,
+            "popularity": 1.0
+          }
+        ],
+        "b_only_tags": []
+      }
+    }
+  ],
+  "strategies": [
+    {
+      "id": "tribe_1",
+      "tribe_name": "Lower East Side Patrons",
+      "strategic_angle": "This tribe converts by targeting women aged 18 to 27 in the Lower East Side who value natural ingredients and health-conscious energy alternatives, aligning perfectly with chaen's matcha energy drink. The strategy avoids auction overlap by focusing on a female demographic with a strong affinity for health drinks and matcha, distinct from broader male-dominated energy drink audiences.",
+      "qloo_grounding_summary": "Geo pin Lower East Side (40.71533, -73.98193; 100.0% affinity) Venues: sweetgreen - Healthy Salads, Wraps, and Bowls (84.9% affinity, 1.44 km); JOE & THE JUICE (84.7% affinity, 1.53 km); Miansai SoHo (84.5% affinity, 1.59 km) Artists: Red Cafe (89.8% affinity, 94.5% popularity, top signal RUNA); Ryan Leslie (89.7% affinity, 98.0% popularity, top signal RUNA); Maino (89.6% affinity, 97.1% popularity, top signal RUNA); Swizz Beatz (89.4% affinity, 97.8% popularity, top signal RUNA) Films: Minimalism: A Documentary About the Important Things (84.6% affinity, 91.5% popularity, top signal RUNA); Cowspiracy: The Sustainability Secret (84.2% affinity, 94.0% popularity, top signal RUNA); Expedition Happiness (84.1% affinity, 82.6% popularity, top signal RUNA) Podcasts: Fitness Confidential (86.9% affinity, 97.0% popularity); Boundless Life (85.9% affinity, 99.1% popularity) Brands: NYDJ (84.6% affinity, 88.5% popularity); Pair of Thieves (84.6% affinity, 88.4% popularity); Ark Swimwear (83.4% affinity, 92.2% popularity) Taste tags: Overcoming Challenges, Superhero-Loving, Supportive, Body Confidence, Anthemic, Matcha, Natural Ingredients Demographic focus: ages 18-27; genders [2]; source aggregate; top cohort 24 and younger (+0.47)",
+      "cultural_system_prompt": "Create ad creative and copy for chaen, a matcha energy drink, targeting women aged 18 to 27 in New York's Lower East Side. Reference the venues sweetgreen - Healthy Salads, Wraps, and Bowls, JOE & THE JUICE, and Miansai SoHo, incorporating their outdoor seating, healthy salad offerings, music atmosphere, and minimalist tea culture into OOH and copy elements. Mention the brands NYDJ, Pair of Thieves, and Ark Swimwear to evoke a sense of contemporary, supportive fashion with body confidence. Incorporate the artists Red Cafe, Ryan Leslie, Maino, and Swizz Beatz, emphasizing sonic directions rooted in Hip Hop, Rap, R&B, and Soul to create anthemic, energetic soundscapes that resonate with the audience's taste for anthem-like music. For films, use Minimalism: A Documentary About the Important Things, Cowspiracy: The Sustainability Secret, and Expedition Happiness; apply a visual style with natural, warm color grading, organic film stock textures, soft natural lighting, and intimate compositions to reflect themes of overcoming challenges, sustainability, and adventure. Integrate podcast references to Fitness Confidential and Boundless Life, highlighting insights on fitness, nutrition, and biohacking to reinforce the product's health benefits. Use the taste tags Overcoming Challenges, Superhero-Loving, Supportive, Body Confidence, Anthemic, Matcha, and Natural Ingredients genuinely throughout the messaging. Avoid generic marketing clichés and never use the forbidden phrases: unlock, elevate, elevated, journey, curated, authentic, authentically, authenticity, crafted, indulge, savor, sip, where tradition meets, not just a, more than a, game-changer, redefine, unforgettable, iconic, hidden gem, elevate the everyday, taste the difference, for those who, timeless, bespoke, premium experience, premium, raise a glass, seamless, exclusive, luxurious, sophisticated, sophistication, transform, embrace, unleash, tapestry, symphony, realm, discover, vibe, vibes, lifestyle. Deliverables include high-quality short video ads with dynamic Hip Hop and R&B soundtracks, OOH posters featuring venue imagery and clean, natural aesthetics, and social media copy that emphasizes health-conscious energy and community support without clichés.",
+      "meta_adset_spec": {
+        "name": "chaen | Lower East Side Patrons | New York, NY",
+        "status": "PAUSED",
+        "age_min": 18,
+        "age_max": 27,
+        "genders": [
+          2
+        ],
+        "geo_locations": {
+          "custom_locations": [
+            {
+              "latitude": 40.715332,
+              "longitude": -73.98193,
+              "radius": 1.0,
+              "distance_unit": "mile"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "tribe_2",
+      "tribe_name": "Colgate Center Indie Creators",
+      "strategic_angle": "This tribe converts by engaging New York's 22-34 year old men and women who favor underground subculture and indie creator scenes, resonating with the natural and health-conscious ethos of chaen's matcha energy drink. The strategy avoids auction overlap by focusing on low-CPM arbitrage through venues and cultural touchpoints distinct from mainstream energy drink consumers.",
+      "qloo_grounding_summary": "Geo pin Colgate Center (40.71533, -74.02588; 99.9% affinity) Venues: Laughing Man Coffee (84.7% affinity, 1.34 km); Gotan (84.8% affinity, 1.68 km); Ground Support Cafe (84.7% affinity, 2.25 km) Artists: Mack Wilds (89.3% affinity, 80.6% popularity, 1.11 arbitrage, top signal RUNA); Ron Browz (89.1% affinity, 88.6% popularity, 1.01 arbitrage, top signal RUNA); Rico Love (89.1% affinity, 88.8% popularity, 1.00 arbitrage, top signal RUNA); Cassie (89.3% affinity, 99.4% popularity, 0.90 arbitrage, top signal RUNA) Films: A Plastic Ocean (84.0% affinity, 75.3% popularity, top signal RUNA); Tony Robbins: I Am Not Your Guru (83.4% affinity, 79.3% popularity, top signal RUNA); Chasing Coral (83.6% affinity, 86.1% popularity, top signal RUNA) Podcasts: Balanced Bites: Talk on Food, Fitness, & Life with Liz Wolfe (85.2% affinity, 96.0% popularity); Abel James Show (85.9% affinity, 98.4% popularity) Brands: Phlur (84.8% affinity, 75.7% popularity); Filorga (84.8% affinity, 78.7% popularity); C'est Moi (84.0% affinity, 82.5% popularity) Taste tags: Maternity, Summer, Football Analysis, Balanced Lifestyle, Nightlife, Health Drinks Demographic focus: ages 22-34; genders [1, 2]; source aggregate; top cohort 24 and younger (+0.47) Arbitrage leaders: Phlur (1.12); Mack Wilds (1.11); A Plastic Ocean (1.11); Filorga (1.08); Tony Robbins: I Am Not Your Guru (1.05); Expedition Happiness (1.02)",
+      "cultural_system_prompt": "Create ad creatives and copy that genuinely reflect the Colgate Center Indie Creators, a diverse group of men and women aged 22 to 34 who adopt underground subculture and indie creator culture in New York City. Include explicit mentions of the brand chaen and its product description as a matcha energy drink. Reference seed entities MatchaBar and RUNA to ground the cultural context. Highlight venues Laughing Man Coffee, Gotan, and Ground Support Cafe, incorporating outdoor seating and matcha latte culture into out-of-home (OOH) visuals and copy. Use taste tags and cultural codes such as Maternity, Summer, Football Analysis, Balanced Lifestyle, Nightlife, and Health Drinks to shape messaging and creative themes.\nFeature artists Mack Wilds, Ron Browz, Rico Love, and Cassie, directing sonic elements toward R&B, Hip Hop, Soul, and Rap genres to evoke the urban indie music scene. For films, integrate the documentaries A Plastic Ocean, Tony Robbins: I Am Not Your Guru, and Chasing Coral, applying naturalistic color grading with warm, earthy tones, grainy film stock textures, soft natural lighting, and intimate, close-composition shots to evoke mindfulness and environmental awareness.\nIncorporate podcasts Balanced Bites: Talk on Food, Fitness, & Life with Liz Wolfe and Abel James Show, emphasizing themes of health, fitness, and entrepreneurship in creative narratives. Mention brands Phlur, Filorga, and C'est Moi with a focus on clean beauty, health & wellness, and sensitive skin to complement the natural ingredients and health-conscious positioning of chaen.\nEnsure all creative assets avoid the following forbidden phrases: unlock, elevate, elevated, journey, curated, authentic, authentically, authenticity, crafted, indulge, savor, sip, where tradition meets, not just a, more than a, game-changer, redefine, unforgettable, iconic, hidden gem, elevate the everyday, taste the difference, for those who, timeless, bespoke, premium experience, premium, raise a glass, seamless, exclusive, luxurious, sophisticated, sophistication, transform, embrace, unleash, tapestry, symphony, realm, discover, vibe, vibes, lifestyle.\nDeliverables include short-form video ads (15-30 seconds) with high production quality, emphasizing natural light and grounded urban settings around the Colgate Center and Tribeca neighborhoods. Include static and carousel image ads featuring culture and venue shots with clear product placement. Copy must be concise, health-forward, and culturally resonant without marketing clichés. Prioritize a tone that feels genuine, grounded, and aligned with the indie and underground subculture ethos.",
+      "meta_adset_spec": {
+        "name": "chaen | Colgate Center Indie Creators | New York, NY",
+        "status": "PAUSED",
+        "age_min": 22,
+        "age_max": 34,
+        "genders": [
+          1,
+          2
+        ],
+        "geo_locations": {
+          "custom_locations": [
+            {
+              "latitude": 40.715332,
+              "longitude": -74.02588,
+              "radius": 1.0,
+              "distance_unit": "mile"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "tribe_3",
+      "tribe_name": "Theater District Workday Operators",
+      "strategic_angle": "This tribe converts by targeting energetic professionals aged 28-44 in New York's Theater District who seek a natural, health-conscious alternative to Red Bull, aligning with their preference for energy drinks featuring natural ingredients like matcha. The strategy avoids auction overlap by focusing on the unique cultural codes of health-consciousness, public speaking, and comfort food experiences tied to venues like Juice Generation and Telegraphe Cafe., differentiating from Red Bull’s broader, less niche positioning.",
+      "qloo_grounding_summary": "Geo pin Theater District (40.75928, -73.98193; 99.8% affinity) Venues: Juice Generation (84.5% affinity, 0.93 km); Telegraphe Cafe. (84.7% affinity, 2.41 km); Juice Generation (85.3% affinity, 2.51 km) Artists: Fabolous (89.2% affinity, 99.5% popularity, top signal RUNA); Usher (89.2% affinity, 99.9% popularity, top signal RUNA); Timbaland (89.1% affinity, 99.9% popularity, top signal RUNA); Jay Sean (89.1% affinity, 99.6% popularity, top signal RUNA) Films: Before the Flood (83.9% affinity, 93.5% popularity, top signal RUNA); The True Cost (83.9% affinity, 87.5% popularity, top signal RUNA); What the Health (83.8% affinity, 92.7% popularity, top signal RUNA) Podcasts: The Human Upgrade with Dave Asprey (85.0% affinity, 98.8% popularity); The Model Health Show (84.9% affinity, 99.3% popularity) Brands: Mutha (84.1% affinity, 83.0% popularity); Get rael (83.8% affinity, 83.0% popularity); Andar Leather Goods (83.2% affinity, 81.7% popularity) Taste tags: Alcohol, Catering, Table service, Dessert, Coffee, Comfort food, Energy Drinks, Public Speaking Demographic focus: ages 28-44; genders [1, 2]; source aggregate; top cohort 24 and younger (+0.47) Shared category overlap with Red Bull: Food & Beverage (73.0%), Drinks (73.0%), Energy Drink (71.3%) Divergence where our audience over-indexes: Alcohol, Catering, Table service, Dessert, Coffee, Comfort food, Cafe, Small plates, Happy hour food, Late-night food",
+      "cultural_system_prompt": "Create ad creative and copy that speaks directly to men and women aged 28 to 44 in New York's Theater District who value natural energy and health-conscious choices. Reference the brand chaen as a matcha energy drink positioned against competitor Red Bull. Incorporate the venues Juice Generation and Telegraphe Cafe. prominently, using their addresses and descriptors such as acai bowls, peanut butter splits, almond milk, bagels, egg sandwiches, outdoor seating, smoothies, and comfort food to evoke a sense of daily workday nourishment and community. Highlight taste tags including Alcohol, Catering, Table service, Dessert, Coffee, Comfort food, Energy Drinks, and Public Speaking to frame the culture context. Feature the artists Fabolous, Usher, Timbaland, and Jay Sean with a sonic direction rooted in Hip Hop, Rap, Rhythm & Blues, and Contemporary R&B to create an urban, motivating soundtrack that resonates with this audience's cultural tastes. For the films Before the Flood, The True Cost, and What the Health, apply a documentary style with naturalistic lighting, warm color grading, and intimate compositions that communicate credibility and awareness of health and environmental issues. Reference the podcasts The Human Upgrade with Dave Asprey and The Model Health Show by emphasizing themes of human potential, wellness, and scientific insights in the messaging. Include the brands Mutha, Get rael, and Andar Leather Goods as cultural touchpoints representing wellness, maternal health, and everyday carry fashion. Contrast chaen’s natural ingredient focus with Red Bull’s broader energy drink market presence, emphasizing chaen’s alignment with health-conscious, workday-focused consumers. Deliverables should include high-quality video ads (15-30 seconds) with crisp urban visuals, OOH creatives featuring Juice Generation and Telegraphe Cafe. locations and copy that integrates the taste and cultural codes without generic marketing clichés. Never use the forbidden phrases: unlock, elevate, elevated, journey, curated, authentic, authentically, authenticity, crafted, indulge, savor, sip, where tradition meets, not just a, more than a, game-changer, redefine, unforgettable, iconic, hidden gem, elevate the everyday, taste the difference, for those who, timeless, bespoke, premium experience, premium, raise a glass, seamless, exclusive, luxurious, sophisticated, sophistication, transform, embrace, unleash, tapestry, symphony, realm, discover, vibe, vibes, lifestyle.",
+      "meta_adset_spec": {
+        "name": "chaen | Theater District Workday Operators | New York, NY",
+        "status": "PAUSED",
+        "age_min": 28,
+        "age_max": 44,
+        "genders": [
+          1,
+          2
+        ],
+        "geo_locations": {
+          "custom_locations": [
+            {
+              "latitude": 40.759277,
+              "longitude": -73.98193,
+              "radius": 1.0,
+              "distance_unit": "mile"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

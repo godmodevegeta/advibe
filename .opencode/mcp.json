@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "qloo": {
+      "type": "http",
+      "url": "https://docs.qloo.com/mcp"
+    }
+  }
+}

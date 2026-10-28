@@ -21,15 +21,18 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import queue
 import threading
 import time
 from collections.abc import Iterator, Sequence
+from pathlib import Path
 from typing import Any, Literal
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from ask_flow import ask_turn, _scope_message, _state_from
@@ -357,7 +360,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
     allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -561,6 +564,24 @@ def session_stream(request: SessionRequest) -> StreamingResponse:
             "X-Accel-Buffering": "no",
         },
     )
+
+
+def configure_frontend(app: FastAPI, *, enabled: bool, directory: Path) -> None:
+    """Mount only the compiled public frontend, after all API routes."""
+    if not enabled:
+        return
+    if not (directory / "index.html").is_file() or not (directory / "assets").is_dir():
+        raise RuntimeError(
+            "SERVE_FRONTEND requires a compiled frontend; run the frontend production build first"
+        )
+    app.mount("/", StaticFiles(directory=directory, html=True), name="frontend")
+
+
+configure_frontend(
+    app,
+    enabled=os.environ.get("SERVE_FRONTEND", "").strip().lower() in {"1", "true"},
+    directory=Path(__file__).resolve().parent.parent / "advibe-frontend" / "dist",
+)
 
 
 def _artifact_summary(

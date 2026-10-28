@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: advibe
+    runtime: python
+    plan: free
+    branch: main
+    buildCommand: bash scripts/render-build.sh
+    startCommand: uvicorn stream_harness:app --app-dir advibe-backend --host 0.0.0.0 --port $PORT --workers 1
+    healthCheckPath: /api/health
+    envVars:
+      - key: SERVE_FRONTEND
+        value: "true"
+      - key: QLOO_BASE_URL
+        value: https://hackathon.api.qloo.com
+      - key: QLOO_API_KEY
+        sync: false
+      - key: OPENROUTER_API_KEY
+        sync: false
+      - key: OPENROUTER_BASE_URL
+        sync: false
+      - key: OPENROUTER_MODEL
+        sync: false
+      - key: VITE_CARTO_API_KEY
+        sync: false
